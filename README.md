@@ -1,12 +1,7 @@
 # scala-spark-coding-for-solution-maven-project
 
-scala sparkSession, sparkConfig,  RDD, DataFrame, Parallel, Partition, SQL and Join for large csv files, Spark Stream for Twitter Stream, Mlib for
-Movie Recommendation Machine Learning
-
-Why call coding for solution 
-
-we use large data file to implement SparkSQL and Spark Join and real data for Mlib, create RDD and DataFrame by case class , all code is not simple
-example, user can apply the code style for your solution
+scala sparkSession, sparkConfig,  RDD, DataFrame, Parallel, Partition, SQL and Join for large csv files, Spark Stream for Twitter Stream,  
+ 
 
 
 ## IntelliJ Maven project creation

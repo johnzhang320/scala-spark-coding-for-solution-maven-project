@@ -72,7 +72,7 @@ scala sparkSession, sparkConfig,  RDD, DataFrame, Parallel, Partition, SQL and J
         </build>
       </project>
        
- -->Run Pom.xml--> at this moment , you run main can in ...example , you must encount 'no main found' issue--> right click at your project name level
+ -->Run Pom.xml--> after change pom.xml , you must close project, reopen again then the pom.xml start work (right up corner icon show up) at this moment , you run main can in ...example , you must encount 'no main found' issue--> right click at your project name level
  
  --> select 'Add Framework Support' --> check 'Scala' --> note each time mvn clean install or no main found , you must do this operation
  
